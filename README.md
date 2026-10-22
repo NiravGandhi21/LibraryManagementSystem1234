@@ -1,1 +1,5 @@
-# Library Management System - Member Management Feature
+# Library Management System
+
+Features:
+- Book Catalog
+- Member Management
